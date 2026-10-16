@@ -1,6 +1,6 @@
 # CopyManga AdHook / 拷贝漫画去广告
 
- [中文](#中文)| [English](#english)
+[中文](#中文) | [English](#english) | [源码/Source](https://github.com/kaguyaluna2333/io.github.kaguyaluna2333.copymangaadhook)
 
 ## 中文
 
